@@ -5,7 +5,7 @@ Repositório para armazenamento e visualização de um projeto de exibição e e
 
 # 🔰 Projeto Base
 ## Introdução
-        Inicialmente, se haverá a apresentação do projeto, 
+        Inicialmente, haverá a apresentação do projeto, 
         sua justificativa de aplicação e explicação bem breve de metodologia.
 
         Depois, a apresentação de cada ala do museu e suas respectivas salas.
